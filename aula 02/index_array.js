@@ -1,6 +1,6 @@
 // Concatenar e interpolar
-let nome = "Valtemir";
-let sobrenome = "Lima";
+let nome = "Fulano";
+let sobrenome = "Silva";
 // concatenação
 console.log(nome+sobrenome);
 
